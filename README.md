@@ -1,10 +1,4 @@
-<h1 align="center">YOLOv8 LIVE</h1>
 
-<p align="center">
-    <a href="https://youtu.be/QV85eYOb7gk">
-        <img src="https://user-images.githubusercontent.com/26109316/218765786-5ae9d65d-10fc-4626-af72-8e833e3b8f34.jpg" alt="count-objects-crossing-line">
-    </a>
-</p>
 
 ## 👋 hello
 
